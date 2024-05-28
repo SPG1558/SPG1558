@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**SleepyGabes/SleepyGabes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there! My name is Gabe but I also go by Speed.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on AutoFollow, an automated python script for spectating specific players in a game called Hyper Dash.
+- 🌱 I’m currently learning Python and doing a BTEC Level 3 Extended National Diploma Computing Course.
+- 📫 How to reach me: Discord: spgabe1558 or Email: (Will make a professional email soon)
+
+## Rookie Skills
+- ⚙ C# & Python
+- 🛠 Visual Studio & PyCharm
+
+## GitHub Stats
+[![SPG's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepygabes&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+**SleepyGabes/SleepyGabes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
