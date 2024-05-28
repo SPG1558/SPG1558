@@ -5,7 +5,7 @@
 - 📫 How to reach me: Discord: spgabe1558 or Email: (Will make a professional email soon)
 - 🌍 My timezone is Greenwich Mean Time
 - 📌 I live in the United Kingdom
-- 🗣️ I speak Romanian and English
+- ⚡ Fun fact: I speak Romanian and English
 
 ## Rookie Skills
 - ⚙ C# & Python
