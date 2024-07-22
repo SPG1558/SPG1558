@@ -1,11 +1,13 @@
 ## 👋 Hi there! My name is Gabe but I also go by Speed.
 
-- 🔭 I’m currently working on AutoFollow, an automated python script for spectating specific players in a game called Hyper Dash.
-- 🌱 I’m currently learning Python and doing a BTEC Level 3 Extended National Diploma Computing Course.
-- 📫 How to reach me: Discord: spgabe1558 or Email: (Will make a professional email soon)
-- 🌍 My timezone is Greenwich Mean Time
-- 📌 I live in the United Kingdom
-- ⚡ Fun fact: I speak Romanian and English
+- 🔭 I’m currently working on GitPlaylist, an automated python script for getting playlist information from spotify and downloading songs. (For educational purposes)
+- 🌱 I’m currently learning Python.
+- 🎓 Finished my BTEC Level 3 Extended National Diploma Computing Course.
+- 📫 How to reach me: Discord: spgabe1558 or Email: lalucigabriel@gmail.com.
+- 🌍 My timezone is British Summer Time.
+- 📌 I live in the United Kingdom.
+- ⚡ Fun fact: I speak Romanian and English.
+- ✅ Polished repositories: AutoFollow.
 
 ## Rookie Skills
 - ⚙ C# & Python
