@@ -1,10 +1,10 @@
 ## 👋 Hi there! My name is Gabe but I also go by Speed.
 
 - 🔭 I’m currently working on GitPlaylist, an automated python script for getting playlist information from spotify and downloading songs. (For educational purposes)
-- 🌱 I’m currently learning Python.
-- 🎓 Finished my BTEC Level 3 Extended National Diploma Computing Course.
+- 🌱 I’m currently learning Python & C#.
+- 🎓 Doing the Computer Science Foundation Course from Ulster University.
 - 📫 How to reach me: Discord: spgabe1558 or Email: lalucigabriel@gmail.com.
-- 🌍 My timezone is British Summer Time.
+- 🌍 My timezone is GMT.
 - 📌 I live in the United Kingdom.
 - ⚡ Fun fact: I speak Romanian and English.
 - ✅ Polished repositories: AutoFollow.
