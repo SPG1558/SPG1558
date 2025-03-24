@@ -14,9 +14,9 @@
 - 🛠 Visual Studio & PyCharm
 
 ## GitHub Stats
-[![SPG's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepygabes&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![SPG's GitHub stats](https://github-readme-stats.vercel.app/api?username=spg1558&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![SPG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepygabes&layout=compact&theme=dark)](https://github.com/guvacode/github-readme-stats)
+[![SPG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spg1558&layout=compact&theme=dark)](https://github.com/guvacode/github-readme-stats)
 
 <!--
 **SleepyGabes/SleepyGabes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
