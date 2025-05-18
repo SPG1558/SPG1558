@@ -11,7 +11,7 @@
 
 ## Rookie Skills
 - ⚙ C#, Python & Java
-- 🛠 Visual Studio & PyCharm
+- 🛠 Visual Studio, PyCharm, IntelliJ
 
 ## GitHub Stats
 [![SPG's GitHub stats](https://github-readme-stats.vercel.app/api?username=spg1558&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
