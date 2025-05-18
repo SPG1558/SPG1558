@@ -10,7 +10,7 @@
 - ✅ Polished repositories: AutoFollow.
 
 ## Rookie Skills
-- ⚙ C# & Python
+- ⚙ C#, Python & Java
 - 🛠 Visual Studio & PyCharm
 
 ## GitHub Stats
